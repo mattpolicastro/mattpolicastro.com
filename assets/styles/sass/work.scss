@@ -1,0 +1,17 @@
+/* Styles for index.html, mattpolicastro.com */
+
+@import "policastro";
+body {
+	.content {
+		article {
+			@include media(32em) {
+				@include span-columns(10);
+				@include shift(1);
+			}
+			@include media(57em) {
+				@include span-columns(8);
+				@include shift(2)
+			}
+		}
+	}
+}

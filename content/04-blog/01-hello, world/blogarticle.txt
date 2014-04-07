@@ -1,0 +1,6 @@
+Title: Hello, world
+----
+Date: 04.04.14
+----
+Text: This will be a blog soon.
+----

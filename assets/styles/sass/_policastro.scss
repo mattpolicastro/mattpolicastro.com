@@ -1,0 +1,79 @@
+//Imports & Basic Styles Header, Content Area, and Footer for mattpolicastro.com
+
+//Imports
+@import "bourbon/bourbon";
+@import "bitters/bitters";
+@import "neat/neat";
+
+body {
+	margin: 0;
+	@media(32em) {
+		$base-font-size: 1.5em;
+	}
+	.content {
+		@include outer-container;
+	}
+	header, footer {
+		@include span-columns(12);
+		background-color: $dark-gray;
+		}
+	header {
+		@include position(fixed);
+		height:3em;
+		a {
+			@include span-columns(3);
+			font-family: $display;
+			font-size: 1.25em;
+			text-align: center;
+			text-decoration: none;
+			padding: .5em 0em;
+		}
+	}
+	article {
+		padding: 0 2%;
+		a {
+			color: $blue;
+		}
+	}
+	footer {
+		color: $medium-gray;
+		padding-top: 1em;
+		.social {
+			@include span-columns(3 of 12);
+			text-indent: -9999px;
+			height: 2em;
+			background: no-repeat center center;
+			background-size: contain;
+		}
+		#tumblrblock {
+		}
+		#tumblr {
+			@include shift(1.5);
+			background-image: url(../../images/tumblr.svg);
+		}
+		#twitter {
+			background-image: url(../../images/twitter.svg);
+		}
+		#strava {
+			background-image: url(../../images/strava.svg);
+		}
+		#copyright {
+			@include span-columns (12);
+			text-align: center;
+			margin: 2em auto;
+		}
+		@include media(32em) {
+			.social {
+				@include span-columns(1.5 of 12);
+				margin: 2em auto;
+			}
+			#tumblr {
+				@include shift(.5);
+			}
+			#copyright {
+				@include span-columns(7);
+				text-align: right;
+			}
+		}
+	}
+}

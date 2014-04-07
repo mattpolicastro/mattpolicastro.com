@@ -1,0 +1,66 @@
+/* Styles for index.html, mattpolicastro.com */
+
+@import "policastro";
+body {
+	article {
+		padding:3em 0 0 0;
+	    #portrait {
+	    	@include background-image(url(../../images/policastrowordmark.svg), linear-gradient($dark-gray 0%, transparent 100%), url(../../images/portrait.jpg));
+	    	height:26em;
+	    	background-repeat: no-repeat;
+	    	background-size: 95% auto, auto, cover;
+	    	background-position: -1.5% 101%, center, center bottom;
+	    	@include media($medium-screen) {
+	    		height: 38.25em;
+		    	background-size: 66.666% auto, auto, cover;
+	    	}
+	    }
+	    .previewblock {
+	    	@include span-columns(12);
+	    	@include media($medium-screen) {
+		    	@include span-columns(4);
+		    	margin-top: 1.25em;
+	    	}
+	    	h1 {
+	    		font-family: $display;
+	    		font-size: 2.4em;
+	    		color: $white;
+	    		height:4em;
+	    		line-height: 1em;
+	    		padding: .25em 2% 0em;
+	    	}
+	    }
+	    #about {
+	    	@include background-image(linear-gradient($mp-red 25%, $mp-purple 100%));
+	    	@include media($medium-screen) {
+		    	@include background-image(linear-gradient($mp-red 25%, $dark-gray 100%));
+	    	}
+	    }
+	    #work {
+	    	@include background-image(linear-gradient($mp-purple 25%, $mp-blue 100%));
+	    	@include media($medium-screen) {
+		    	@include background-image(linear-gradient($mp-purple 25%, $dark-gray 100%));
+	    	}
+	    }
+	    #blog {
+	    	@include background-image(linear-gradient($mp-blue 25%, $dark-gray 100%));
+	    	@include media($medium-screen) {
+		    	@include background-image(linear-gradient($mp-blue 25%, $dark-gray 100%));
+	    	}
+	    }
+	}
+	
+}
+
+
+@media screen and (min-width:44em) {
+    body {
+    	.content {
+    		article {
+	    		#portrait {
+    				height:36em;
+    			}
+    		}
+    	}
+    }
+}
