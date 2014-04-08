@@ -1,4 +1,5 @@
 .DS_Store
-assets/fonts
-assets/images
-content
+assets/fonts/
+assets/images/
+assets/styles/.sass-cache/
+content/
