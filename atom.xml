@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Matt Policastro</title>
+  
+  
+  <link href="https://www.mattpolicastro.com/atom.xml" rel="self"/>
+  
+  <link href="https://www.mattpolicastro.com/"/>
+  <updated>2022-05-10T04:29:34.945Z</updated>
+  <id>https://www.mattpolicastro.com/</id>
+  
+  <author>
+    <name>Matt Policastro</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Resurfacing</title>
+    <link href="https://www.mattpolicastro.com/2022/05/05/resurfacing/"/>
+    <id>https://www.mattpolicastro.com/2022/05/05/resurfacing/</id>
+    <published>2022-05-06T04:47:41.000Z</published>
+    <updated>2022-05-10T04:29:34.945Z</updated>
+    
+    <content type="html"><![CDATA[<p>According to my drafts folder, the last time I tried to write something here was at least a year ago. Sorry about all that, I guess.</p><hr><p>I've tried to learn my lesson to stop promising updates that won't come. (Or at least those that won't come with any particular timeline.) I let this site lapse into more disrepair than I'd like with a bad SSL certificate, an end-of-life'd CMS, and an unnecessarily solid VM from DigitalOcean, so I decided it was time to re-forge it. </p><p>This new version is a Hexo static side feeding off of a headless instance of Ghost CMS running locally. It's overkill, but I'm still fond of Ghost's admin and writing interface. Hexo was the least painful SSG to integrate and get rolling onto Github Pages. (I also still quite like Vue.js, but it was wildly unnecessary for getting a simple blog running. Maybe someday.) </p><p>I'm also fiddling with a fork of the Hexo Artemis theme, but it's probably not anything I'd ever want to support or extend. To be transparent, I was head over heels for NieR: Automata when it came out so I rather shamelessly cribbed ideas from their <a href="https://www.platinumgames.com/official-blog/article/9624">UI designer</a> for styling.</p><hr><p>Reviewing and tagging my posts for the Hexo migration wasn't as embarrassing or mortifying as I'd worried it would be. The relative lack of discomfort was a welcome surprise; maybe I'm just more comfortable since I turned 30, or perhaps my folks selling my childhood home has taken some of the sting out of looking at earlier versions of myself. However, there are two constants: </p><ol><li>I am verbose.</li><li>Re-building this site is a recurring, all-consuming madness that periodically possesses me and encourages me to make very silly proclamations. Maybe this one will stick.</li></ol><hr><p>I changed jobs, then I changed jobs again. Hardly the first to say it, but the great game of musical chairs in the tech industry over the last few years has been a very strange thing. I continue to have opportunities to work with lovely people, and for that I'm very grateful.</p><hr><p>I made <a href="https://mhm.social">mhm.social</a>. It might be the best dumb idea I've had? </p><p>After <a href="https://mattpolicastro.github.io/soundblasterblaster/">SoundBlasterBlaster</a> I might just be addicted to the rush of hearing my voice come out of the internet, but it's also been something I've found myself coming back to with some frequency. I continue to have complex feelings about Twitter (recent acquisition news only amplifying that), and this is the closest I've gotten to having my very own megaphone in a soundproof room. Shout it out, then carry on. I'd like to make more toy apps in this vein, but nothing's been begging for attention. (I have continued to mess around with voice clone libraries, so who knows.)</p><hr><p>After a sometimes-painful wait due to COVID, Sarah and I finally got married. It was more or less perfect. Should you find yourself interested, and have the means of doing so, I'd recommend the experience.</p>]]></content>
+    
+    
+    <summary type="html">According to my drafts folder, the last time I tried to write something here was at least a year ago. Sorry about all that, I guess.</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>SoundBlasterBlaster</title>
+    <link href="https://www.mattpolicastro.com/2020/10/13/soundblasterblaster/"/>
+    <id>https://www.mattpolicastro.com/2020/10/13/soundblasterblaster/</id>
+    <published>2020-10-13T06:07:30.000Z</published>
+    <updated>2022-05-10T04:29:34.943Z</updated>
+    
+    <content type="html"><![CDATA[<!--kg-card-begin: markdown--><p>Well I left the team at Clearhead (more on that to come soon), but as I was wrapping things up I wanted to build a quick little thing to celebrate all the shenanigans I got up to with virtual soundboards in my tenure. So, meet <a href="https://mattpolicastro.github.io/soundblasterblaster/">SoundBlasterBlaster</a>.</p><p>It's decidedly silly but it's the first thing I've been able to push in a long, long time and I actually think it's not all that badly-built? A simple Vue.js app with some audio clips from <em>yours truly</em>. Configuring and customizing it is probably a little more painful than it could be, so we'll see if I keep tinkering with it.</p><!--kg-card-end: markdown-->]]></content>
+    
+    
+    <summary type="html">Well I left the team at Clearhead, so I made a silly toy.</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Bad things, good things, all things</title>
+    <link href="https://www.mattpolicastro.com/2020/08/21/good-things-bad-thingsall-in-excruciating-detail-but/"/>
+    <id>https://www.mattpolicastro.com/2020/08/21/good-things-bad-thingsall-in-excruciating-detail-but/</id>
+    <published>2020-08-21T08:27:52.000Z</published>
+    <updated>2022-05-10T04:29:34.943Z</updated>
+    
+    <content type="html"><![CDATA[<!--kg-card-begin: markdown--><p>Popping by to give some updates. In the process of doing a content review (I'll get to that later) I realized I have quite the penchance for over-deploying bullets, so I'm trying something a bit different.</p><hr><p>Christ. COVID. The US' response to COVID. I miss seeing friends and family, I get weirded out watching people hug on TV. I miss occasionally being in an office. I finally bought some decent masks. If your're reading this, just wear a fucking mask, ok?</p><p>The election. Trump. It's killing me to see the Democrats <a href="https://readsludge.com/2020/08/18/dncs-flip-flop-on-fossil-fuel-subsidies-follows-deep-ties-the-industry/">drift right</a> but I hope to God we drive him off, by ballots or bodies. Watching the DNC this week has frustrating and disappointing—but at least we can agree that finding a purpose is the only way to move forward. (Do not forget: it can absolutely happen here.)</p><p><strong>Black lives matter.</strong></p><p>The wedding is on hold (but being engaged is great). It wasn't fun to say out loud &quot;we're not getting married next year&quot; but we know it's been even more painful for everyone who had dates, venues, butterflies. We can't wait to celebrate with loved ones, in person, when it's safe. Being engaged is great (but the wedding is on hold).</p><p>I felt my biannual itch to fiddle with the tech stack for this site. Even though I'm not exactly active here, I still really like Ghost CMS and the Content API piqued my curiosity. (Hence the content review.) As this was a golden opportunity to piddle-paddle with something new and to dust off my web back-end knowledge I set up Hexo to pull from Ghost and it's been a thoroughly fun jaunt. It's working on local; but the realities of content clean-up and migrating URL schemes may be a deal-breaker. I may soothe myself with a new Ghost template and some tweaks. We'll see. (I also happen to be writing this on the mobile version of the Ghost editor and I'm fairly pleased.)</p><p>All the fiddling and tinkering. I've really turned the practice of stating contests with the &quot;80% complete&quot; wall into a discipline. I try not to beat myself up. I've tried and succeeded in so many new methods and media; for the first time I'm uniformly proud of that. I dare to hope again that I might even post more details about them here.</p><p>Given social distancing I suppose it was only a matter of time before I resumed some of my social networks. I'm basically back on Twitter which has been an interesting re-negotiation. I'm doomscrolling with the best of them but tweeting trifling things is just nice. On the other hand, Facebook is a blight and I'm very glad I deactivated my account. (I will concede that I haven't deleted my account entirely because Messenger is the only way to engage with some family members.)</p><p>Speaking of family members, we added a new one: <a href="https://twitter.com/mattpolicastro/status/1282352327727312896">Earl.</a> I simply cannot overstate the degree to which this cat is <em>the</em> paradigmatic <strong>scamp</strong>. He ate some Nerf darts—and was fine, thank God—and hasn't met a trash can he won't climb into. I watched him slurp down most of a spaghetti noodle and I was so dumbstruck I couldn't even stop him. He is fine and he is great.</p><hr><p>I hope this doesn't sugarcoat it too much, but 2020 has been a real motherfucker. I'm so thankful we've been lucky and that our loved ones have been too. But some days just feel like someone's taking an ice cream scoop to my chest.</p><p>I hope someday that we can mourn properly. I dread what's on the horizon of these next few months. I know the only way forward is to build toward something new and better.</p><p>Take care.</p><!--kg-card-end: markdown-->]]></content>
+    
+    
+    <summary type="html">Working out my feelings in a difficult period.</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Observations on Data Science</title>
+    <link href="https://www.mattpolicastro.com/2020/01/21/ruminating-on-data-science/"/>
+    <id>https://www.mattpolicastro.com/2020/01/21/ruminating-on-data-science/</id>
+    <published>2020-01-21T19:44:50.000Z</published>
+    <updated>2022-05-10T04:29:34.944Z</updated>
+    
+    <content type="html"><![CDATA[<!--kg-card-begin: markdown--><p>I don't usually write about my career—a small firebreak against professional encroachment on personal time—but I've been working more closely with my studio's people/process/culture consulting practice and &quot;data-science-as-discipline&quot; has been a reliable kickstarter of contentious conversation.</p><!-- more --><p>Despite it being my third year of having &quot;data scientist&quot; in my job title, I'm still fairly skeptical of the separation between &quot;conventional&quot; digital analytics and &quot;data science&quot;. The distinctions between the two seem to only grow more arbitrary and fiddly with time (and I'm not entirely convinced those distinctions were particularly sound to begin with). My colleague <a href="https://twitter.com/daveiam">David J. Neff</a> leads our consulting practice and after some thorough navel-gazing we decided to assemble our thoughts into a <a href="https://www.linkedin.com/pulse/its-2020-you-hiring-data-scientists-analysts-david-j-neff/">discussion piece.</a></p><!--kg-card-end: markdown-->]]></content>
+    
+    
+    <summary type="html">Fleshing out some ideas around data, organizations, and roles.</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Preferred Super Glue &amp; Other News</title>
+    <link href="https://www.mattpolicastro.com/2020/01/18/super-glue-preferences-other-news/"/>
+    <id>https://www.mattpolicastro.com/2020/01/18/super-glue-preferences-other-news/</id>
+    <published>2020-01-18T07:51:01.000Z</published>
+    <updated>2022-05-10T04:29:34.943Z</updated>
+    
+    <content type="html"><![CDATA[<!--kg-card-begin: markdown--><p>Well it's certainly been a while (again). I won't pretend that the world somehow feels very different than it did when I last wrote here but that's a whole lot more than I care to unpack in this moment.</p><!-- more --><p>Instead, I'd like to talk about super glue. I've taken up a lot of small hobbies to stay sane while I spend the most of my time working from home in Chicago's winter. And, through the course of those hobbies, I have come to understand the sublime heights and direst depths of fast-curing adhesives—and this week I may have found true love.</p><p>Loctite has a &quot;gel control&quot; super glue in several curing times meaning I now have an incredibly manageable, low-fuss solution while arranging components and prototyping. <em>Looks meaningfully at the chemical burn I received at the hands of super-thin fast-dry glue.</em> You put the glue on a surface and it stays there! This is an impossibly small improvement on my immediate circumstances yet it is an improvement nonetheless.</p><p>Of course, this is a silly thing to return to, but I've been meaning to put something here and I am pleased as punch having found this glue this week. But I also had some other news:</p><p><img src="http://localhost:2368/content/images/2022/05/SBMP-20200103-MMC3819.jpg" alt="SBMP-20200103-MMC3819" loading="lazy"></p><p>Happy New Year, Sarah.</p><!--kg-card-end: markdown-->]]></content>
+    
+    
+    <summary type="html">Definitely not burying the lede.</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>The Latest &amp; Greatest</title>
+    <link href="https://www.mattpolicastro.com/2018/04/05/the-latest-greatest/"/>
+    <id>https://www.mattpolicastro.com/2018/04/05/the-latest-greatest/</id>
+    <published>2018-04-05T05:20:50.000Z</published>
+    <updated>2022-05-10T04:29:34.943Z</updated>
+    
+    <content type="html"><![CDATA[<!--kg-card-begin: markdown--><p>Long time, no see. I came to my senses and switched to a self-hosted <a href="https://github.com/TryGhost/Ghost">Ghost</a> site since I'd backed myself into a corner with my homebrew CMS. It was a great way to learn Node.js and to try weird stuff but I eventually wised up to my own folly. Namely:</p><ol><li>Rolling your own authentication is hard.</li><li>Stumbling into trendy NoSQL/MongoDB management, only to realise thoughtful schemas are definitely your friend, was decidedly unpleasant.</li><li>Re-discovering useful design patterns and solutions is edifying—but only up to a certain point.</li></ol><p>Roll-your-own angst has been a reliable motif in my online life so I threw caution to the wind and picked a well-supported project. Ghost is a happy medium of fully-baked features and moddable extensions, and these days DigitalOcean makes it dead-simple to set up an instance. My installation is still pretty vanilla but I've liked what I've messed with so far. Still working out some of the kinks (e.g. legacy redirects, documenting my migration process/methods).</p><h2 id="whatelseisnew">What else is new?</h2><p>I finished my masters at the University of Cincinnati last summer and rolled right into a new gig: data scientist with <a href="http://clearhead.me">Clearhead</a>. They're an awfully nice bunch of folks—they let me run the quantitative end of all sorts of UX/UI tests and research projects. Frankly, I'm pleased as punch and look forward to the work I get to do with them every day.</p><p>I am also now a proud resident of Chicago, Illinois. My partner decided to pursue her graduate studies here and I was more than happy to follow; a mess of family and friends have roots here and I'm a midwestern boy through and through. Cincinnati was my base for more than fifteen years but I couldn't imagine an easier place to call my new home than Chicago. (That said: it snowed on April 4th and the very concept of the interminable Chicago winter violently struck me about the head. William H. Macy Christ, spring cannot come soon enough.)</p><p>All in all, my immediate circumstances are grand. And perhaps most importantly: I now live with <a href="https://twitter.com/mattpolicastro/status/917626388362006528">this fuzzball.</a></p><!--kg-card-end: markdown-->]]></content>
+    
+    
+    <summary type="html">I moved website platforms (again) and I made several other sizable life changes.</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Marginalia VII</title>
+    <link href="https://www.mattpolicastro.com/2017/05/02/marginalia-vii/"/>
+    <id>https://www.mattpolicastro.com/2017/05/02/marginalia-vii/</id>
+    <published>2017-05-02T12:00:00.000Z</published>
+    <updated>2022-05-10T04:29:34.943Z</updated>
+    
+    <content type="html"><![CDATA[<!--kg-card-begin: markdown--><ul><li>I haven't been in much of a mood to post over the last few months, given the political climate.</li><li>Also, I overloaded on classes this past semester and had to set aside fun projects (like this site). Hoping to get some things done over a brief break between semesters.</li></ul><!--kg-card-end: markdown-->]]></content>
+    
+    
+    <summary type="html">Trying to show some signs of life.</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Marginalia VI</title>
+    <link href="https://www.mattpolicastro.com/2016/10/03/marginalia-vi/"/>
+    <id>https://www.mattpolicastro.com/2016/10/03/marginalia-vi/</id>
+    <published>2016-10-03T12:00:00.000Z</published>
+    <updated>2022-05-10T04:29:34.943Z</updated>
+    
+    <content type="html"><![CDATA[<!--kg-card-begin: markdown--><ul><li>I haven't mentioned this here, but I'm pursuing my masters in Business Analytics at the University of Cincinnati after some prolonged dancing along the periphery. Very business; very school. But I'm learning plenty, and it feels right.</li><li><a href="https://github.com/mattpolicastro/daisy/tree/develop">Updates to this site are coming.</a> It would seem I've finally cracked the code of making regular, reasonable progress on a project. Still a ways to go, but the major things (new database, new admin from scratch) are (mostly) sorted.</li><li>Gave Facebook the boot by locking myself out (intentionally). The election looms large over my well-being and the density of off-the-cuff hot takes was approaching critical mass. Twitter, on the other hand, is at least the devil I know. I'll partake again once it's <a href="http://mobro.co/mattpolicastro">Movember season</a> (assuming I remain in corporeal form after November 8th).</li><li>And with that in mind, I've been enjoying <a href="http://www.sayswhopodcast.com/episodes/48696-ep-3-the-great-debate-coaster-with-chris-hayes">Says Who</a>—good to know I'm not alone in losing it completely.</li></ul><!--kg-card-end: markdown-->]]></content>
+    
+    
+    <summary type="html">More updates. Site tweaks (again).</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Pikachu Shops at Whole Foods</title>
+    <link href="https://www.mattpolicastro.com/2016/07/15/pokemon-and-environmental-ethics/"/>
+    <id>https://www.mattpolicastro.com/2016/07/15/pokemon-and-environmental-ethics/</id>
+    <published>2016-07-15T12:00:00.000Z</published>
+    <updated>2022-05-10T04:29:34.943Z</updated>
+    
+    <content type="html"><![CDATA[<!--kg-card-begin: markdown--><h5 id="pokemonasglobalphenomenoninsidetheworldofpokemonaglobalphenomenon">Pokemon as Global Phenomenon inside the World of Pokemon, a Global Phenomenon</h5><p><em>The following is a response to <a href="https://killscreen.com/articles/fear-not-pokemon-will-save-planet/">&quot;Fear Not, Pokemon Will Save the Planet&quot;</a> by Adam Kranz, published 7/12/16 on Kill Screen. To begin, a few caveats:</em></p><ul><li><em>I am, at best, a fair-weather Pokemon fan. I know there are significant differences between the anime, manga, and games, and will try to accommodate them as best able.</em></li><li><em>It's also been a while since I've delved into some of the theory I obliquely reference, so please forgive any unintentional elisions.</em></li><li><em>Finally, &quot;speculative fiction&quot; here refers to the relatively recent (the past century) trend of fictive works functioning as allegorical commentary.</em></li></ul><blockquote><p>&quot;Pokemon’s world-building is opportunistic… …even when doing so undermines the coherence of the culture and ecology of Kanto, Johto, and their successors.&quot;</p></blockquote><p>On this, we agree unequivocally.</p><p>Despite overtones of environmental harmony and pastoral virtuousness through depictions of environmental reconciliation, the world of Pokemon plays fast and loose with notions of ecology, coexistence, and society. Though these illustrations are almost universally positive, they fail to constitute a positive environmental ethic in either their world or our own.</p><p>Undoubtedly, the world of Pokemon is a beautiful one. Human settlements exist inside vast expanses of pristine landscape with few perceptible externalities. The creatures themselves are a cornerstone of the culture, omnipresent in media, sport, material goods, and daily life. Furthermore, the consensual relationships between Pokemon and their human counterparts are mutually beneficial and rewarding in almost every sense. In this, the fiction is remarkably effective in integrating distinctly human activities and their manifestations as part of the natural world.</p><p>And yet, the inconsistencies are many. While all fictive texts have their arbitrary rules, Pokemon takes close care to deny fundamental systems: food production, reproduction, predation, and regional/global effects are all utterly ignored. This is Pokemon's fundamental structural failing.</p><p>By denying the prevalence, complexity, and necessity of systems, Pokemon celebrates a platonic Nature rather than a holistic Environment. And although this succeeds in rejecting Romantic constructions of wilderness and nature, humanity still operates from a privileged position—a position which is re-iterated constantly in the text. Pokemon are anthropomorphised, with emotional lives reflective of our own; Pokemon perform labour and construction, but almost explicitly in service of human intent; the various <a href="http://bulbapedia.bulbagarden.net/wiki/Artificial_Pok%C3%A9mon">&quot;artificial&quot; Pokemon</a> developed through genetic manipulation or other man-made means. It may be the &quot;Pokemon&quot; world, but the 'mon just live in it.</p><p>In this light, it is easy to recast the world of Pokemon in a  pleasantly dystopic light. Devastated by ecosystem collapse, reconciliatory practices mitigate negative externalities while fauna has been supplanted by a limited and increasingly-abstract class of purpose-built creatures. These creatures exist either as domestic companions and labourers or as tightly-managed stocks in nature preserves for sport and tourism. Human society, beholden to this arrangement, spirals deeper into a particular hyperreality of mutualism and harmony, where smiling, Poke-faced ecological interventionism is championed as the sole means of progress.</p><p>As such, it becomes easier to understand the flimsy reactionary and terrorist movements within the fiction. Rather than blaming the authors wholesale for the clumsy application of various radical environmental ideologies, they simply do not work inside this universe. They rely on cultural and symbolic references that exist only in our realm, not that of the Pokemon, and seem utterly absurd as such. What is biodiversity when the entirety of animal life consists of a flat catalogue of loosely-affiliated monsters? How does one call for systemic environmental responsibility when the locus of anthro-environmental interaction is quasi-professionalised  Pokemon training?</p><p>It is this fundamental disconnect—the dizzying complexity of life systems on Earth and all the signifiers we use to understand it versus those of the rigorously policed Pokedex definitions—that prevents the world of Pokemon from developing a meaningful ethic or critique toward the environment. One needs only to look at how Pokemon Go has mapped onto our world to understand the complexities and dynamics the fiction of Pokemon is simply incapable of reconciling. Our politics of space, fetishisation of rarity, and sudden, mass social action simply have no analogue and no conceptual accommodation in these media.</p><p>And perhaps that is what Pokemon is best understood as: a cultural phenomenon, both real and imagined. In their world, the Pokemon undergird economic activity and humans' ambiguous sentimentality toward nature—a Potemkin environmentalism that rings hollow. In our world, its success as a brand and business sublimates whatever original well-meant ethic Pokemon contained in an effort to maintain interest and popularity around the globe, always becoming ever-more abstract.</p><p>This <a href="http://bulbapedia.bulbagarden.net/wiki/Honedge_(Pok%C3%A9mon)">Pokemon is a sword</a>, for heaven's sake.</p><hr><p>This isn't to say Pokemon is uniquely hobbled by these deficiencies. Environmentalism-as-branding is widespread, with product green-washing and incomprehensible appeals to outdoorsy sentiment commonplace. <em>Avatar</em> and its feel-good tale of environmental preservation was predicated on Unobtainium mining. <em>Unobtainium</em>. The fresh, organic bananas at the supermarket were flown in by a gas-guzzling freight plane. <em>The Lorax</em> featured Danny DeVito as a plaintive voice of reason. Madness, are these not?</p><p>Instead, I think all ecological fiction suffers from this structural defect. Where space operas and high fantasy can manage MacGuffins with ease, ecological storytelling is fundamentally concerned with naturally-occurring systems, their complexity, and their function. The burden of proof for the suspension of disbelief is raised sufficiently high that earnestly ecological texts have two options:</p><ul><li>Embrace inaccessibility in the spirit of &quot;hard&quot; fiction and attempt to communicate all the complexities therein.</li><li>Develop compellingly abstract allegory that risks losing the nuance and referents of Earth's own ecology.</li></ul><p>But if the fiction fails to encourage reflexive thought or political action, is there really a choice?</p><hr><p>As a rather cynical sort of person, I recognise that a popular environmental ethics devoid of anthropocentrism is an unlikely thing. We live in the Anthropocene, after all. Similarly, a studiously interrogative fiction of Pokemon that encourages something beyond than &quot;lets be friends with animals&quot; will probably never be. And I'll concede that utopian fiction is a tremendous motive for hope and change. But it never hurts to tug at the edges.</p><p><em>Related ideas that didn't make the cut:</em></p><ul><li><em>How do systems in Pokemon run across or against the fiction (e.g. cities as encounter-free safe spaces)?</em></li><li><em>How has the narrative treatment of Pokemon and the environment has evolved over time and market value (e.g. Pikachu transitioning from vermin to mascot)?</em></li></ul><!--kg-card-end: markdown-->]]></content>
+    
+    
+    <summary type="html">Trying to write an essay to a less-than-satisfying result.</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Snippets</title>
+    <link href="https://www.mattpolicastro.com/2016/07/12/snippets/"/>
+    <id>https://www.mattpolicastro.com/2016/07/12/snippets/</id>
+    <published>2016-07-12T12:00:00.000Z</published>
+    <updated>2022-05-10T04:29:34.943Z</updated>
+    
+    <content type="html"><![CDATA[<!--kg-card-begin: markdown--><p>Sounds like <a href="http://www.manton.org/2016/07/4096.html">Manton Reece</a> is getting close to showing off his new microblogging service. I'm suddenly glad I've been avoiding Twitter integration while rehashing this site.</p><!--kg-card-end: markdown-->]]></content>
+    
+    
+    <summary type="html">Microblogging rears its handsome head.</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Marginalia V</title>
+    <link href="https://www.mattpolicastro.com/2016/06/17/marginalia-v/"/>
+    <id>https://www.mattpolicastro.com/2016/06/17/marginalia-v/</id>
+    <published>2016-06-17T12:00:00.000Z</published>
+    <updated>2022-05-10T04:29:34.943Z</updated>
+    
+    <content type="html"><![CDATA[<!--kg-card-begin: markdown--><ul><li>Being a student again is strange. Plenty to do, but I can't help but feel a bit adrift.</li><li>Summer has come on awfully fast.</li><li>Despite coursework, I still feel the tug to over-extend myself (neither wise nor prudent). I accepted that I am a creature of stress some time ago, and I'm kinda dying for interesting problems to push some limits.</li></ul><!--kg-card-end: markdown-->]]></content>
+    
+    
+    <summary type="html">I&#39;m in grad school. Time passes.</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Marginalia IV</title>
+    <link href="https://www.mattpolicastro.com/2016/03/31/marginalia-iv/"/>
+    <id>https://www.mattpolicastro.com/2016/03/31/marginalia-iv/</id>
+    <published>2016-03-31T12:00:00.000Z</published>
+    <updated>2022-05-10T04:29:34.943Z</updated>
+    
+    <content type="html"><![CDATA[<!--kg-card-begin: markdown--><p>It's been a minute.</p><ul><li>Been working out an eventual migration to a new database, as well as a bunch of other changes to the site.</li><li>My interest in Skilful Grammar has petered out (not surprising, really). It was great to learn Swift and iOS, but the moment passed. If I'm up to it, I might toss it out into the open so folks can sideload it or take it somewhere interesting.</li><li>I think I figured out why I've been dragging out the process of changing this site: voice. As much as I want to have all my writing and posts in one place, I'm having a harder and harder time reconciling topics and interests (weird internet jokes and circumspect reflection aren't the best bedfellows). Keeping it on a low burner.</li><li>Most importantly, I'm (sort of) a student again! Part-time classes in statistics and regression analysis. I've forgotten a lot of math, but the buzz of feeling clever never gets old.</li></ul><!--kg-card-end: markdown-->]]></content>
+    
+    
+    <summary type="html">Errata, etc.</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Twitter in 2016</title>
+    <link href="https://www.mattpolicastro.com/2016/02/18/twitter-in-2016/"/>
+    <id>https://www.mattpolicastro.com/2016/02/18/twitter-in-2016/</id>
+    <published>2016-02-18T12:00:00.000Z</published>
+    <updated>2022-05-10T04:29:34.943Z</updated>
+    
+    <content type="html"><![CDATA[<!--kg-card-begin: markdown--><p><em>I've probably said this better elsewhere and before, but right now it seems particuarly acute.</em></p><p>Twitter is sick, and I am sad. I joined relatively early—2008—and generally had A Lot Of Things To Say. (Who knew younguns could be so angry about their crummy cell provider? <a href="https://twitter.com/mattpolicastro/status/804381594">Oh, wait.</a>) Of course there have been loads of changes over the years, but the general thrust remained the same: find amazing people around the world, and be able to talk to them.</p><p>It just doesn't feel that way anymore.</p><p>Maybe this is all just a tidy alignment of a twenty-something's innate background-dread-radiation and a spate of ugly world news, but there's neither wonder nor joy left. The lovely folks who I was able to meet and learn from are all pulling back into private channels, and with good reason: being a mildly-popular, readily-accessible internet celebrity seems like approximately none-fun now. The party feels like it's gone on too long.</p><p>Of course, the blogs and essays of &quot;how Twitter opened my eyes to protozoan homesteaders' rights&quot; et al are nothing if not abundant. I don't begrudge anyone that. If you can open youself to anything other than that which is your own, I feel that you're better off for it. But watching from afar isn't the same as getting to know someone (even if it's in surface terms only).</p><p>Who knows? Perhaps my existential wagon wheel is slottering between muddy ruts at the bottom of a canyon; I just can't or won't look up and get a sense of how deep I am. I'll take the occasional hiatus, declared or otherwise (yes, hello, I'll just be over here feeling ever-so holier than thou) and that'll clear some of the jade-tinted fog for a little while. Or I'm trapped in a deeply, deeply cynical filter bubble and just need to lighten up a bit.</p><p>I can't recall its origins, but this fear is still a fear nonetheless: the open web might be dying. The era of unfinished and ugly things might be giving way to other, newer things that are also less fun. But the fact remains for now: I am sad. And I hope it all gets better.</p><!--kg-card-end: markdown-->]]></content>
+    
+    
+    <summary type="html">Attempting to eulogize something still very much alive.</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hyper Text Transfer Protocol over Transport Layer Security</title>
+    <link href="https://www.mattpolicastro.com/2016/02/03/https/"/>
+    <id>https://www.mattpolicastro.com/2016/02/03/https/</id>
+    <published>2016-02-03T12:00:00.000Z</published>
+    <updated>2022-05-10T04:29:34.943Z</updated>
+    
+    <content type="html"><![CDATA[<!--kg-card-begin: markdown--><p>Many thanks to the fine folks at <a href="https://letsencrypt.org">Let's Encrypt.</a></p><p>Viva la crypto-revolución.</p><!--kg-card-end: markdown-->]]></content>
+    
+    
+    <summary type="html">I finally got on the HTTPS bandwagon, thanks to Let&#39;s Encrypt.</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>GA-frame</title>
+    <link href="https://www.mattpolicastro.com/2016/01/05/ga-frame/"/>
+    <id>https://www.mattpolicastro.com/2016/01/05/ga-frame/</id>
+    <published>2016-01-05T12:00:00.000Z</published>
+    <updated>2022-05-10T04:29:34.943Z</updated>
+    
+    <content type="html"><![CDATA[<!--kg-card-begin: markdown--><p>As is the custom of my people, I puked a <a href="https://github.com/mattpolicastro/gaframe">rinky-dink virtual reality demo onto Github</a> at an ungodly hour. Enjoy?</p><!--kg-card-end: markdown-->]]></content>
+    
+    
+    <summary type="html">Screwing around in virtual worlds.</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Skilful Grammar I</title>
+    <link href="https://www.mattpolicastro.com/2015/12/09/skilful-grammar-i/"/>
+    <id>https://www.mattpolicastro.com/2015/12/09/skilful-grammar-i/</id>
+    <published>2015-12-09T12:00:00.000Z</published>
+    <updated>2022-05-10T04:29:34.944Z</updated>
+    
+    <content type="html"><![CDATA[<!--kg-card-begin: markdown--><p>I haven't forgotten. Skilful Grammar is plodding along. That said, this particular project isn't as vital to my livelihood as others so don't expect any sudden movement. Also: the <a href="https://swift.org/blog/welcome/">open-sourcing of Swift</a> is awfully exciting.</p><p>All this mucking about in an actual programming language has me in the mood for silly web stuff. (Maybe over the holiday.)</p><!--kg-card-end: markdown-->]]></content>
+    
+    
+    <summary type="html">Experiments in iOS and Swift.</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Marginalia III</title>
+    <link href="https://www.mattpolicastro.com/2015/11/05/marginalia-iii/"/>
+    <id>https://www.mattpolicastro.com/2015/11/05/marginalia-iii/</id>
+    <published>2015-11-05T12:00:00.000Z</published>
+    <updated>2022-05-10T04:29:34.944Z</updated>
+    
+    <content type="html"><![CDATA[<!--kg-card-begin: markdown--><p>Fall has been rather sudden and unfamiliar, but not unwelcome. Haven't been up to too much other than computer things:</p><ol><li>Developing some interesting analyses at work (modelling charitable giving). I'm definitely at a point where my analytical problem-solving feels R-shaped, but I've also been getting over my gripes with Python. Different jobs, different tools, and teaching/collaborating is fun.</li><li>Speaking of Python, <a href="https://source.opennews.org/en-US/articles/introducing-agate/">agate</a> is phenomenal. It really does cut out a lot of the unfriendliness it comes to basic analysis in Python. Convinced a few of my colleagues who were really pushing the limits of Excel to sidle on over, and it's been smashing.</li><li>Oh, and I'm writing an iOS app (it's a content blocker).</li></ol><h2 id="skilfulgrammar">Skilful Grammar</h2><p>I don't want to get into &quot;why content blocking&quot; yet, but I've wanted to play around with iOS and Swift for a while and this seemed like a great place to start. For the moment, I'm calling it Skilful Grammar: it was a dumb name a program gave me once, but I couldn't think of anything more <em>right:</em> simple keywords → useful rules.</p><p>It won't be &quot;press once to block ads&quot;; it won't cost anything; it might come out soon. To be frank I'm caught up on tidbits of look and feel. Building the presentation is easy; it's all the interaction fiddliness that has me hung up. That said, the app won't be a selection of switches—this will be for &quot;professionals&quot;, if you're so inclined.</p><p>Should you have unsolicited ramblings, second opinions, or, hell, mild interest, get in touch. I honestly don't know if the way I've gone about it stands a chance in App Review—but hey, that's all part of the fun.</p><!--kg-card-end: markdown-->]]></content>
+    
+    
+    <summary type="html">More errata and effluvia, but I smuggled in an announcement.</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>On Writing</title>
+    <link href="https://www.mattpolicastro.com/2015/08/25/on-writing/"/>
+    <id>https://www.mattpolicastro.com/2015/08/25/on-writing/</id>
+    <published>2015-08-25T12:00:00.000Z</published>
+    <updated>2022-05-10T04:29:34.943Z</updated>
+    
+    <content type="html"><![CDATA[<!--kg-card-begin: markdown--><blockquote><p>&quot;Always remember that writing is an essential expression of purpose...&quot;</p></blockquote><p>...is the sort of horseshit you say to yourself when you're reaching for excuses after midnight because your dear friend, your gracious friend, has been silently and patiently waiting for edits for weeks now and what <em>exactly</em> have you been doing with all this time anyway?</p><p>Sorry.</p><!--kg-card-end: markdown-->]]></content>
+    
+    
+    <summary type="html">An apology. (Sorry again.)</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Expertise</title>
+    <link href="https://www.mattpolicastro.com/2015/08/11/expertise/"/>
+    <id>https://www.mattpolicastro.com/2015/08/11/expertise/</id>
+    <published>2015-08-11T12:00:00.000Z</published>
+    <updated>2022-05-10T04:29:34.944Z</updated>
+    
+    <content type="html"><![CDATA[<!--kg-card-begin: markdown--><p>Been reading a bit lately. From <a href="http://amzn.to/1f4N7A2"><em>The Real World of Technology (Revised Edition)</em></a> by Ursula M. Franklin. From pages 31–32:</p><blockquote><p>The scientific method works best in circumstances in which the system studied can be truly isolated from its general context. This is why its first triumphs came in the study of astronomy.</p></blockquote><blockquote><p>On the other hand, the application of the general to the specific has been much less successful in situations where generalisation was achieved only by omitting essential considerations of context. These questions of reductionism, of loss of context, and of cultural biases are cited quite frequently by critics of the scientific method. We hear much less about the human and social effects of the separation of knowledge from experience that is inherent in any scientific approach. These effects are quite wide-spread and I think they can be serious and debilitating from a human point of view.</p></blockquote><blockquote><p>Today scientific constructs have become <em>the</em> model of describing reality rather than <em>one</em> of the ways of describing life around us. As a consequence there has been a very marked decrease in the reliance of people on their own experience and their own senses. The human sense of sight and sound, of smell and sound and taste and touch, are superb instruments. All senses, including the so aptly named &quot;common sense,&quot; are perfectible and it's a great pity that we have so little trust in them. For instance, people know at what point an ongoing noise will give them a headache, but all too often they feel the need for an expert with a device that measures the noise in decibels. The expert then has to compare the noise level measured with a chart that indicates the effect of noise levels on the nervous system. Only when that chart and the expert say, &quot;Yes, indeed, the noise level is above the scientifically established tolerance range,&quot; do people believe that it was indeed the noise and not a figment of their imagination that gave them persistent headaches. I'm not talking here about an either-or situation in which either personal experience or an established measuring procedure is paramount; what I am talking about is the downgrading and the discounting of personal experience by ordinary people who are perfectly well equipped to interpret what their senses tell them. I dwell on this because the downgrading of experience and the glorification of expertise is a very significant feature of the world of technology. Sometimes it is important to stress that because the scientific method separates knowledges from experience it may be necessary in case of discrepancies to question the scientific results or the expert opinion rather than to question and discount the experience. It should be the experience that leads to a modification of knowledge, rather than abstract knowledge forcing people to perceive their experience as being unreal or wrong.</p></blockquote><!--kg-card-end: markdown-->]]></content>
+    
+    
+    <summary type="html">Excerpting Ursula M. Franklin.</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Fitness Data: Kicking &amp; Screaming</title>
+    <link href="https://www.mattpolicastro.com/2015/07/07/fitness-data-kicking-and-screaming/"/>
+    <id>https://www.mattpolicastro.com/2015/07/07/fitness-data-kicking-and-screaming/</id>
+    <published>2015-07-07T12:00:00.000Z</published>
+    <updated>2022-05-10T04:29:34.944Z</updated>
+    
+    <content type="html"><![CDATA[<!--kg-card-begin: markdown--><p><em>Been meaning to publish a bigger piece but got caught in the vortex of not being 100% about the result; forcing myself to blog about the topic at hand, if nothing else.</em></p><p><a href="http://www.buzzfeed.com/stephaniemlee/who-owns-your-steps#.bcXOdRQyKZ">Stephanie Lee of Buzzfeed</a> wrote a delightfully succinct summary of the state of fitness data: that there is a wealth of collection tools, but their expectations and implications are murky at best. I've been using my Fitbit for more than a year—Strava, Nike+, and Garmin Connect much longer—but never really given data extraction much more thought than their baked-in dashboards. Now, I'm interested.</p><p>And has that ever been a can of worms.</p><p>As soon as I started looking around the Fitbit API docs, I knew things were going downhill: casual mentions of Premium membership, daily totals, etc. Given that I've been somewhat-slavishly examinig my step counts sunce last year, I knew there was better data available—but how to get it? Luckily, some kind soul (ok, <a href="https://github.com/corynissen/fitbitScraper">corynissen</a>) put together a scraper for the Fitbit dash. Even if the data isn't reliable or meaningful, it's always a comfort to see other folks doing the same mad things as I am.</p><p>That said, it's becoming absurd how complicated access to one's own fitness data is becoming. This doesn't necessarily strike me as being the same as proper medical and health records, but that seems like an awfully good model to aspire to—or even to exceed. Individual data storage and delivery is so insanely straightforward that options ought to exist at marginal cost. But, I digress.</p><p>Having resolved the conundrum of extraction, I'm merely tasked with interpretation and visualization. I know the perspective afforded by short-term trends has always been helpful, and I had hoped a bit of <a href="http://feltron.com">Feltron-esque</a> analysis would prompt some more changes on my part. But honestly, I'm not even sure I'll find something worth sharing—this was my not-very-cunning way of forcing a choice between charting/visualisation libraries.</p><p>Wait, I did what now?</p><!--kg-card-end: markdown-->]]></content>
+    
+    
+    <summary type="html">Poorly-considered experiments in the quantified self.</summary>
+    
+    
+    
+    
+  </entry>
+  
+</feed>

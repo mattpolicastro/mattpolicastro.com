@@ -1,0 +1,55 @@
+@charset "utf-8";
+
+@import "_partial/normalize";
+@import "_partial/base";
+@import "_partial/header";
+@import "_partial/home-post-list";
+@import "_partial/archive-post-list";
+@import "_partial/post";
+@import "_partial/footer";
+@import "_partial/mq";
+@import "_partial/copyright";
+@import "_partial/highlight";
+
+// @font-face {
+//     font-family: 'sourcesanspro';
+//     src: url('../font/sourcesanspro.woff2') format('woff2'),
+//          url('../font/sourcesanspro.woff') format('woff');
+//     font-weight: normal;
+//     font-style: normal;
+// }
+
+@font-face {
+    font-family: "Rodin Pro";
+    src: url('../font/FOTRodin\ Pro\ L.otf');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Rodin Pro";
+    src: url('../font/FOTRodin\ Pro\ M.otf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Rodin Pro";
+    src: url('../font/FOTRodin\ Pro\ DB.otf');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Rodin Pro";
+    src: url('../font/FOTRodin\ Pro\ DB.otf');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Rodin Pro";
+    src: url('../font/FOTRodin\ Pro\ UB.otf');
+    font-weight: 900;
+    font-style: normal;
+}
